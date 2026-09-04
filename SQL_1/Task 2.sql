@@ -1,0 +1,2 @@
+ALTER DATABASE birds RENAME TO cats;
+
